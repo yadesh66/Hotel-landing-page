@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.monday {
+  padding-left: 600px;
+  margin-left: 80px;
+}
+.colll {
+  margin-top: 100px;
+}
+.man {
+  display: flex;
+}
+.manii {
+  display: flex;
+}
+.jai {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.uoi {
+  display: flex;
+}
+.img1 {
+  position: relative;
+}
+.span1 {
+  position: absolute;
+  left: 100px;
+  background-color: antiquewhite;
+  color: black;
+  top: 20px;
+  left: 10px;
+  padding: 8px;
+}
+.span2 {
+  position: absolute;
+  left: 100px;
+  background-color: red;
+  color: white;
+  top: 10px;
+  left: 10px;
+  padding: 2px;
+}
+.span3 {
+  position: absolute;
+  left: 100px;
+  background-color: rgb(13, 136, 13);
+  color: white;
+  top: 100px;
+  left: 170px;
+  padding: 2px;
+}
